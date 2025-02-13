@@ -21,7 +21,7 @@ The PM2.5 concentration levels of 2024 have revealed a significant disparity in 
 **How**: Illustrate the significant difference between particulate matter concentration levels during the months of the Fall semester vs Spring semester. 
 
 ## Data: 
-CSV File in Root Directory: assets/ad_viz_plotval_data.csv
+**CSV File in Root Directory**: assets/ad_viz_plotval_data.csv
 
 **CSV File Used for Data Visualization**: https://www3.epa.gov/cgi-bin/broker?_service=data&_server=134.67.99.91&_port=4081&_sessionid=QAogJKobS52&_PROGRAM=dataprog.ad_viz_plotval_getdata.sas
 
